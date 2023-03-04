@@ -14,31 +14,17 @@ Over 7 years of experience in the development of Mobile applications, especially
 ## Presentations and Talks
 
 - [Criando sua própria DSL utilizando expressões Lambda em Kotlin | Kotlin Everywhere Campinas 2019](https://speakerdeck.com/berteodosio/criando-sua-propria-dsl-utilizando-expressoes-lambda-em-kotlin-kotlin-everywhere-campinas-2019)
+
 - [Criando sua própria DSL utilizando expressões Lambda em Kotlin | GDG Campinas Android Fest 2018](https://speakerdeck.com/berteodosio/criando-sua-propria-dsl-utilizando-expressoes-lambda-em-kotlin-gdg-campinas-androidfest-2018) [(video)](https://www.youtube.com/watch?v=v00Ny0swDYA)
 
-- Available as a **theme gem** and **GitHub Pages** theme
-- Clear and elegant design that can be used out of the box or as solid starting point
-- Tested in all major browsers, including **IE and Edge**
-- Built in **Service Worker** so it can work offline and on slow connections
-- **Configurable colours** and typography in a single settings file
-- Extensive set of **shortcodes** to include various elements; such as buttons, icons, figure images and more
-- Solid **typographic framework** from [Sassline](https://sassline.com/)
-- Configurable navigation via a single file
-- Modular Jekyll components
-- Post category support in the form of a single post index page grouped by category
-- Built in live search using JavaScript
-- **Contact form** built in using [Formspree](https://formspree.io/)
-- Designed with **[Siteleaf](https://www.siteleaf.com/)** in mind
-- Has 9 of the most popular networks as performant sharing buttons
-- Has documentation
+- [Criando sua própria DSL utilizando expressões Lambda em Kotlin | Kotlin Summit '18](https://speakerdeck.com/berteodosio/criando-sua-propria-dsl-utilizando-expressoes-lambda-em-kotlin)
 
-## Examples
+- [Kotlin - uma breve introdução | Kotlin Night Campinas 2017](https://speakerdeck.com/berteodosio/kotlin-uma-breve-introducao)
 
-Here are a few examples of Alembic out in the wild being used in a variety of ways:
 
-- [bawejakunal.github.io](https://bawejakunal.github.io/)
-- [case2111.github.io](https://case2111.github.io/)
-- [karateca.org](https://www.karateca.org/)
+## Articles
+
+- [Criando sua própria DSL utilizando expressões Lambda em Kotlin](https://medium.com/movile-tech/criando-sua-pr%C3%B3pria-dsl-utilizando-express%C3%B5es-lambda-em-kotlin-ea552497da33) [(english version)](https://medium.com/wavy-engineering/kotlin-create-your-own-dsl-using-lambda-expressions-73e4d27f76e0)
 
 ## Installation
 
