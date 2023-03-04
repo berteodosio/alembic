@@ -15,7 +15,7 @@ Over 7 years of experience in the development of Mobile applications, especially
 
 - [Criando sua própria DSL utilizando expressões Lambda em Kotlin | Kotlin Everywhere Campinas 2019](https://speakerdeck.com/berteodosio/criando-sua-propria-dsl-utilizando-expressoes-lambda-em-kotlin-kotlin-everywhere-campinas-2019)
 
-- [Criando sua própria DSL utilizando expressões Lambda em Kotlin | GDG Campinas Android Fest 2018](https://speakerdeck.com/berteodosio/criando-sua-propria-dsl-utilizando-expressoes-lambda-em-kotlin-gdg-campinas-androidfest-2018) [(video)](https://www.youtube.com/watch?v=v00Ny0swDYA)
+- [Criando sua própria DSL utilizando expressões Lambda em Kotlin | GDG Campinas Android Fest 2018](https://speakerdeck.com/berteodosio/criando-sua-propria-dsl-utilizando-expressoes-lambda-em-kotlin-gdg-campinas-androidfest-2018) [video](https://www.youtube.com/watch?v=v00Ny0swDYA)
 
 - [Criando sua própria DSL utilizando expressões Lambda em Kotlin | Kotlin Summit '18](https://speakerdeck.com/berteodosio/criando-sua-propria-dsl-utilizando-expressoes-lambda-em-kotlin)
 
