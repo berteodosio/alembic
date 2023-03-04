@@ -1,10 +1,10 @@
 ---
-title: About Alembic
+title: About
 feature_text: |
   ## Bernardo do Amaral Teodosio
   Developer, Academic
 feature_image: "https://picsum.photos/1300/400?image=989"
-excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "Over 7 years of experience in the development of Mobile applications, especially Android. I have also been working with Unity and iOS development. I've worked with a large number of different applications, with the most varied functionalities and integrations"
 ---
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
