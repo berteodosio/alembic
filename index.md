@@ -26,6 +26,18 @@ Over 7 years of experience in the development of Mobile applications, especially
 
 - [Criando sua própria DSL utilizando expressões Lambda em Kotlin](https://medium.com/movile-tech/criando-sua-pr%C3%B3pria-dsl-utilizando-express%C3%B5es-lambda-em-kotlin-ea552497da33) [(english version)](https://medium.com/wavy-engineering/kotlin-create-your-own-dsl-using-lambda-expressions-73e4d27f76e0)
 
+- [Motivos para trocar o Java pelo Kotlin ainda hoje](https://medium.com/movile-tech/trocar-o-java-pelo-kotlin-8bed76014d99) [english version](https://medium.com/wavy-engineering/kotlin-vs-java-reasons-to-switch-from-java-to-kotlin-today-4703548e0d04)
+
+## Academic
+
+- [MVP Limpo: Uma Arquitetura para Aplicações Android baseada no estilo MVP e em Arquitetura Limpa](https://ic.unicamp.br/~reltech/PFG/2020/PFG-20-31.pdf) [more about the project](https://ic.unicamp.br/~reltech/PFG/2020/PFG-20-30.pdf)
+
+## Projects
+- Surviving
+
+## Contact
+- You can mail me at berteodosio@gmail.com
+
 ## Installation
 
 ### Quick setup
